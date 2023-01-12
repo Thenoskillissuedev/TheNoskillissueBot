@@ -1,0 +1,17 @@
+{
+    "TOKEN": "null",
+    "GUILD_ID": "null",
+    "CLIENT_ID": "null",
+    "OWNER_ID": "1",
+    "WEBHOOK_URL": "null",
+    "Prefix": "/",
+    "RPC": {
+        "Type": "Playing",
+        "Status": "dnd",
+        "Details": "Hi! I am Thenoskillissue Test"
+    },
+    "Blocked_Command_Shell": [
+        "1",
+        "2"
+    ]
+}
